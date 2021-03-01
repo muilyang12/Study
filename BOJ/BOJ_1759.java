@@ -1,4 +1,4 @@
-import java.util.*;
+dimport java.util.*;
 
 class Main {
     public static char[] chars;
